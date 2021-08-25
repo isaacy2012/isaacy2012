@@ -2,7 +2,7 @@
 
 I'm currently working on a batch QR scanning app called [MultiQR](https://github.com/isaacy2012/MultiQR)
 
-<img src="https://isaacy.dev/img/multiqr/home-screen.gif"  width="254.5" height="509.5">
+<img src="https://isaacy.dev/img/multiqr/home-screen.gif"  width="170" height="340">
 
 ## Links
 **Website** [isaacy.dev](https://isaacy.dev)
