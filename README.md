@@ -1,9 +1,11 @@
 ### <img src="https://github.com/isaacy2012/isaacyoung/blob/main/img/IY.svg"  width="25" height="25"> Hi there 👋 I'm Isaac, a second year Software Engineering student at Victoria University of Wellington.
 
-I'm currently working on a batch QR scanning app called [MultiQR](https://github.com/isaacy2012/MultiQR)
+I'm currently working on a batch QR scanning app called [MultiQR](https://github.com/isaacy2012/MultiQR) which aims to speed up data entry and validation.
 
+<p float="left">
 <img src="https://isaacy.dev/img/multiqr/home-screen.gif"  width="170" height="340">
 <img src="https://github.com/isaacy2012/MultiQR/blob/main/readMeImages/regex_match_failure.png"  width="170" height="340">
+</p>
 
 ## Links
 **Website** [isaacy.dev](https://isaacy.dev)
