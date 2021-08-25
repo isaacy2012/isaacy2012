@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=isaacy2012&show_icons=true)
+### Hi there 👋 I'm Isaac, a second year Software Engineering student at Victoria University of Wellington.
 
 
 <!--
