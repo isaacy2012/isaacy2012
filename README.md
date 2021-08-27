@@ -3,7 +3,7 @@
 I'm currently working on a batch QR scanning app called [MultiQR](https://github.com/isaacy2012/MultiQR) which aims to speed up data entry and validation.
 
 <p float="left">
-<img src="https://isaacy.dev/img/multiqr/home-screen.gif"  width="170" height="340">
+<img src="https://isaacy.dev/img/multiqr/home_screen.gif"  width="170" height="340">
 <img src="https://github.com/isaacy2012/MultiQR/blob/main/readMeImages/regex_match_failure.png"  width="170" height="340">
 </p>
 
