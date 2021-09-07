@@ -8,6 +8,13 @@ I'm currently working on a batch QR scanning app called [MultiQR](https://github
 <img src="https://github.com/isaacy2012/MultiQR/blob/main/readMeImages/regex_match_failure.png"  width="170" height="340">
 </p>
 
+I'm also working on a React web app written in Typescript called [Observer](https://github.com/isaacy2012/Observer) which helps people collect and visualise feedback.
+
+<p float="left">    
+    <img src="https://github.com/isaacy2012/Observer/blob/main/READMEImages/demo_room.gif" width="400" height="251"/>
+    <img src="https://github.com/isaacy2012/Observer/blob/main/READMEImages/new_room.gif"  width="400" height="251"/>
+</p>
+
 ## Links
 **Website** [isaacy.dev](https://isaacy.dev)
 
