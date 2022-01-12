@@ -1,4 +1,4 @@
-### <img src="https://github.com/isaacy2012/isaacyoung/blob/main/img/IY.svg"  width="25" height="25"> Hi there 👋 I'm Isaac, a second year Software Engineering student at Victoria University of Wellington.
+### <img src="https://github.com/isaacy2012/isaacyoung/blob/main/img/IY.svg"  width="25" height="25"> Hi there 👋 I'm Isaac, a third year Software Engineering student at Victoria University of Wellington.
 
 I'm currently working on a batch QR scanning app called **[MultiQR](https://github.com/isaacy2012/MultiQR)** which aims to speed up data entry and validation. I'll be making a new version for Victoria University of Wellington, coming soon!
 
