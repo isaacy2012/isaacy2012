@@ -18,7 +18,7 @@ I'm currently working on a batch QR scanning app called **[MultiQR](https://gith
 ## Links
 **Website** [isaacy.dev](https://isaacy.dev)
 
-**Google Play** [innerCat](https://play.google.com/store/apps/developer?id=innerCat)
+**Google Play** [isaacy](https://play.google.com/store/apps/developer?id=isaacy)
 
 <!--
 **isaacy2012/isaacy2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
